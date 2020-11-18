@@ -1,0 +1,32 @@
+{
+  "name": "Hendyzero",
+  "short_name": "Hendyzero",
+  "background_color": "#ad38f1",
+  "theme_color": "#ad38f1",
+  "start_url": "/",
+  "description": "Email template",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "img/icons/",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icons/",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icons/",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icons/",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
